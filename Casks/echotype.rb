@@ -1,6 +1,6 @@
 cask "echotype" do
   version "0.1.0"
-  sha256 "5f80c9107c5c0fc6cc1720f8ff4c7887b24cba16b25c56da4272772cdc4c25f8"
+  sha256 "cd732c1497940d21001bf6c5d198bbdb091641e3e3b003cfba1f89cc7805808e"
 
   url "https://github.com/smoosex/echo-type/releases/download/v0.1.0/EchoType-0.1.0.dmg"
   name "EchoType"
