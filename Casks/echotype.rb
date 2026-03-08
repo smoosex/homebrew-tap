@@ -1,8 +1,8 @@
 cask "echotype" do
-  version "0.0.4"
-  sha256 "8ac063c54220b3f70384c8c1d3c3a503a70b3d5e7b4db0456dadccf909d7c2d9"
+  version "0.0.5"
+  sha256 "ac35b9b2ea4a0fc78ec9755473d66586f832d98625029fa3eb701223522ed8c3"
 
-  url "https://github.com/smoosex/echotype/releases/download/v0.0.4/EchoType-0.0.4.dmg"
+  url "https://github.com/smoosex/echotype/releases/download/v0.0.5/EchoType-0.0.5.dmg"
   name "EchoType"
   desc "Offline speech-to-text menubar app for macOS"
   homepage "https://github.com/smoosex/echotype"
