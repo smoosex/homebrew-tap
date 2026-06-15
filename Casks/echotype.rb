@@ -7,7 +7,7 @@ cask "echotype" do
   desc "Offline speech-to-text menubar app for macOS"
   homepage "https://github.com/smoosex/echotype"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :ventura
 
   app "EchoType.app"
 end
